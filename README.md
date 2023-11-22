@@ -10,4 +10,5 @@ import database.sql file
 Click on go to run sql queries
 
 Give url,user and password in the JdbcConnectionInstance class 
-Footer
+
+Run todolistsampleapp as java application
